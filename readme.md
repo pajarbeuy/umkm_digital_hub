@@ -19,7 +19,6 @@ UMKM Digital Hub adalah platform sederhana berbasis web yang dirancang untuk mem
 | Laragon / XAMPP | Local development environment |
 
 ## 📁 Struktur Folder
-```
 
 new_umkm/
 │
@@ -29,28 +28,23 @@ new_umkm/
 ├── index.php # Halaman utama
 └── README.md
 
-````
 
 ## ⚙️ Cara Menjalankan
 1. Clone repository:
-   ```bash
+   bash
    git clone https://github.com/pajarbeuy/umkm_digital_hub.git
-````
 
 2. Pindah ke folder project:
 
-   ```bash
+   bash
    cd umkm_digital_hub
-   ```
+   
 
 3. Jalankan Laragon / XAMPP.
 
-4. Import file SQL jika tersedia (`database.sql`) ke dalam database `umkm_db`.
-5. Buka melalui browser:
+4. Buka melalui browser:
 
-   ```
    http://localhost/umkm_digital_hub
-   ```
 
 ## 🧑‍💻 Kontribusi
 
@@ -65,6 +59,3 @@ Proyek ini bersifat open-source dan dapat digunakan untuk kebutuhan pembelajaran
 
 Made with by **Kelompok 1**
 
-```
-
-```
