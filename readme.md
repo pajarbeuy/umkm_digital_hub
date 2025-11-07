@@ -16,7 +16,6 @@ UMKM Digital Hub adalah platform sederhana berbasis web yang dirancang untuk mem
 | --------------- | ----------------------------- |
 | HTML, CSS, JS   | Frontend UI/UX                |
 | PHP Native      | Backend / pengolahan data     |
-| MySQL / MariaDB | Database penyimpanan          |
 | Laragon / XAMPP | Local development environment |
 
 ## 📁 Struktur Folder
