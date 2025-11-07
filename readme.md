@@ -1,9 +1,3 @@
-Gas, ini **README.md** yang clean, rapih, dan keliatan profesional.
-Tinggal copy → paste ke repo lu (`README.md` di root project).
-
----
-
-```markdown
 # UMKM Digital Hub
 
 UMKM Digital Hub adalah platform sederhana berbasis web yang dirancang untuk membantu pendataan, pengelolaan, dan publikasi informasi usaha mikro, kecil, dan menengah. Platform ini dapat digunakan oleh pelaku UMKM maupun instansi terkait untuk manajemen data usaha secara lebih terstruktur dan efisien.
